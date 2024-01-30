@@ -1,0 +1,13 @@
+sequence of topics -
+
+Query selector
+access element 
+innerText and innerHTML
+Get and set attributes
+adding styles
+add remove replace class 
+parent children and sibling
+event basics 
+creating and removing element 
+bubbling and delegation 
+
