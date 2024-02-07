@@ -42,7 +42,17 @@ getAllData();
 
 
 
-  //Below just for awareness 
+  
+
+
+
+
+
+
+
+
+
+//Below just for awareness 
 
 //When to use return
 // Directly return a promise when the value is intended to be used by the caller.
