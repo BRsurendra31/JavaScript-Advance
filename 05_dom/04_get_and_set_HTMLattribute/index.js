@@ -16,10 +16,10 @@
 
 // set - 
 
-// let coderDostLink = document.querySelector('a');
-// coderDostLink.setAttribute('href', "https://www.youtube.com/watch?v=ZI2z5pq0TqA&t=431s");
-// console.log(coderDostLink.getAttribute('href'));
-// coderDostLink.innerText = "Trapping rain water";
-//op- https://www.youtube.com/watch?v=ZI2z5pq0TqA&t=431s 
+let coderDostLink = document.querySelector('a');
+coderDostLink.setAttribute('href', "https://www.youtube.com/watch?v=ZI2z5pq0TqA&t=431s");
+console.log(coderDostLink.getAttribute('href'));
+coderDostLink.innerText = "Trapping rain water";
+// op- https://www.youtube.com/watch?v=ZI2z5pq0TqA&t=431s 
 // now link and text are  channded dynamically
 

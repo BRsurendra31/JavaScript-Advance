@@ -8,11 +8,11 @@
 
 // 1. click event on button
 
-let eventElement = document.querySelector('.clickMe');
-eventElement.addEventListener('click', function(){ // function() it is listener /  a call back func it will execute when click hoga 
-    console.log('someone clicked me ')// listener only listen before clicking and execute after clickin g
-    // technical term - listener get event when someone clicks 
-})
+// let eventElement = document.querySelector('.clickMe');
+// eventElement.addEventListener('click', function(){ // function() it is listener /  a call back func it will execute when click hoga 
+//     console.log('someone clicked me ')// listener only listen before clicking and execute after clickin g
+//     // technical term - listener get event when someone clicks 
+// })
 //op> (6) someone clicked me - 6 indicates 6 time clicks 
 
 
@@ -90,4 +90,3 @@ repeat
         these all items are with line-through we cant see anywhere otherthan screen
 
 */ 
-

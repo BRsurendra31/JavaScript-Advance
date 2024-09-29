@@ -11,6 +11,7 @@ button.addEventListener('click', function(){
 
 
 })
+// jase button click hoga utane times li element create hokar  ul me append ho jayega 
 /* op>
 by apend -
 Eat
@@ -35,16 +36,16 @@ repeat
 
 // removing 
 
-let elements = document.querySelectorAll('li');
+// let elements = document.querySelectorAll('li');
 
-elements.forEach(function(element){
+// elements.forEach(function(element){
 
-    element.addEventListener('click', function(e){
-        e.target.remove()// as element is targeted(clickrd) as that element will be removed 
+//     element.addEventListener('click', function(e){
+//         e.target.remove()// as element is targeted(clickrd) as that element will be removed 
 
-    })
+//     })
 
-})
+// })
 // eat is clicked then automaticalm it removed from list and so on 
 
 
