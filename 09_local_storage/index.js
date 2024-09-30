@@ -29,7 +29,7 @@
 // // {passion: 'coding', age: '24', length: 2}
 // // */
 
-console.log(localStorage); // after commenting all , still local storage has stored values
+console.log(localStorage); // after commenting all above code , still local storage has stored values
 
 // these values will stored permanently on particular local lost in particular local storage even after close and open browser again
 
